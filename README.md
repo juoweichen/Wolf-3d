@@ -87,10 +87,26 @@ Textures resources can be found under resources/xpm, file type as xpm. After add
 
 ## ray-casting
 Raycasting is a rendering technique to create a 3D perspective in a 2D map. Back when computers were slower it wasn't possible to run real 3D engines in realtime, and raycasting was the first solution. The basic idea of raycasting is, if the window size is 200 * 100(width * height), there's 200 vertical stripes of the screen, each with 1 pixel width. We shoot a ray from player's location to each stripes, if it hit a wall, calculate the distance of this hit point to the player, and use this distance to calculate how high this wall has to be drawn on the screen.<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/ray.png">
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/ray.png"><br>
+
+The image of ray casting without any texture looks like:<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/simple_scene.png"><br>
 
 ## Mazes
+To illustrate this simple, yet powerful, ray casting game engine, I made a stage of maze with some surprise hidden in it.<br>
+<br>
+When you first land on maze...<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/landing.png"><br>
+Pick up some weapon to protect yourself<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/weapon.png"><br>
+Some food can make you feel better...<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/meal.png"><br>
+This place is creepy...better find a way out fast...<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/cage.png"><br>
+Danger ahead...<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/Achtung.png"><br>
+Boss fight!!!<br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/fuhrers.png">
 
-## Sprite
-
-## Boss fight
+## Thanks!
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/thanks.png" height="50%" width="50%">
