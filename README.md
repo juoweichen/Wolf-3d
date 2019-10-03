@@ -95,18 +95,24 @@ The image of ray casting without any texture looks like:<br>
 ## Mazes
 To illustrate this simple, yet powerful, ray casting game engine, I made a stage of maze with some surprise hidden in it.<br>
 <br>
-When you first land on maze...<br>
+**When you first land on maze...**<br>
+<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/landing.png" height="50%" width="50%"><br>
-Pick up some weapon to protect yourself<br>
+**Pick up some weapon to protect yourself**<br>
+<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/weapon.png" height="50%" width="50%"><br>
-Some food can make you feel better...<br>
+**Some food can make you feel better...**<br>
+<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/meal.png" height="50%" width="50%"><br>
-This place is creepy...better find a way out fast...<br>
+**This place is creepy...better find a way out fast...**<br>
+<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/cage.png" height="50%" width="50%"><br>
-Danger ahead...<br>
+**Danger ahead...**<br>
+<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/Achtung.png" height="50%" width="50%"><br>
-Boss fight!!!<br>
+**Boss fight!!!**<br>
+<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/fuhrers.png" height="50%" width="50%">
 
 ## Thanks!
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/thank.png" height="50%" width="50%">
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/thank.png">
