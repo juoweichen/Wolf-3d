@@ -23,7 +23,7 @@ After "wolf3d" created, execute it with a map. Some maps can be found under maps
 ```
 W & S to move forward and backward, A & D to rotate.<br>
 Looks like you had found Nazi's teasures!<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/teasures.git"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/teasures.gif"><br>
 
 ## Map generate guide
 
