@@ -90,23 +90,23 @@ Raycasting is a rendering technique to create a 3D perspective in a 2D map. Back
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/ray.png"><br>
 
 The image of ray casting without any texture looks like:<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/simple_scene.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/simple_scene.png" height="50%" width="50%"><br>
 
 ## Mazes
 To illustrate this simple, yet powerful, ray casting game engine, I made a stage of maze with some surprise hidden in it.<br>
 <br>
 When you first land on maze...<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/landing.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/landing.png" height="50%" width="50%"><br>
 Pick up some weapon to protect yourself<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/weapon.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/weapon.png" height="50%" width="50%"><br>
 Some food can make you feel better...<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/meal.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/meal.png" height="50%" width="50%"><br>
 This place is creepy...better find a way out fast...<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/cage.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/cage.png" height="50%" width="50%"><br>
 Danger ahead...<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/Achtung.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/Achtung.png" height="50%" width="50%"><br>
 Boss fight!!!<br>
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/fuhrers.png">
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/fuhrers.png" height="50%" width="50%">
 
 ## Thanks!
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/thanks.png" height="50%" width="50%">
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/thank.png" height="50%" width="50%">
