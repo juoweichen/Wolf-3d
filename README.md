@@ -1,6 +1,6 @@
 # Basic Game Engine: Wolf-3d
 Inspired by Wolfenstein 3D, which has been recognized as the first true “First Person Shooter” in the history of video games, the goal of this project is to build a basic game engine using ray casting technique.
-<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/wolf-intro.png"><br>
+<img src="https://github.com/pootitan/Wolf-3d/blob/master/img/wolf-intro.png" height="50%" width="50%"><br>
 
 ## Objectives
 The fun part of this project is the bonuses. But before we can start hunting Nazis, we need to completely match the following requirments. <br>
@@ -22,7 +22,7 @@ After "wolf3d" created, execute it with a map. Some maps can be found under maps
 ./wolf3d maps/teasure_room.txt
 ```
 W & S to move forward and backward, A & D to rotate.<br>
-Looks like you had found Nazi's teasures!<br>
+Looks like you found Nazi's teasures!<br>
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/teasures.gif"><br>
 
 ## Map generate guide
