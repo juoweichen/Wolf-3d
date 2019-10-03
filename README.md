@@ -99,7 +99,6 @@ To illustrate this simple, yet powerful, ray casting game engine, I made a stage
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/landing.png" height="50%" width="50%"><br>
 <br>
 **Pick up some weapon to protect yourself**<br>
-
 <img src="https://github.com/pootitan/Wolf-3d/blob/master/img/weapon.png" height="50%" width="50%"><br>
 <br>
 **Some food can make you feel better...**<br>
